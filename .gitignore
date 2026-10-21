@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# downloaded UCI data and caches (re-created on first use)
+data_cache/

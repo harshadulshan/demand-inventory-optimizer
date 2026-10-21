@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+plotly>=5.18
+scikit-learn>=1.4
+requests>=2.31
+openpyxl>=3.1
+holidays>=0.100
